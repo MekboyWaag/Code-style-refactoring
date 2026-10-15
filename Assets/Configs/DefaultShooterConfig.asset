@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb3b995fba872f4eb89f7ad6d1fc8ba, type: 3}
+  m_Name: DefaultShooterConfig
+  m_EditorClassIdentifier: 
+  _bulletPrefab: {fileID: 9154700507632435067, guid: e67d25c97244b6746a3f039df2748a6c,
+    type: 3}
+  _bulletSpeed: 16
+  _bulletLifetime: 3
+  _shootInterval: 0.6
+  _spawnOffsetDistance: 1.2
+  _initialPoolCapacity: 15
+  _maxPoolCapacity: 30
